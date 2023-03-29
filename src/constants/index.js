@@ -135,7 +135,7 @@ const experiences = [
     company_name: "Cs Servicios Administrativos, S.A.",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "May 1012 - July 2019",
+    date: "May 2012 - July 2015",
     points: [
       "Developing and maintaining web applications using HTML, CSS, JavaScript, Ajax and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
